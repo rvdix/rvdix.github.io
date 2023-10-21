@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### About Me!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+College student with too much time on his hands. Working on projects that interest me. Mostly related to programming, 3D printing, and repairing consumer electronics.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[contact@xrvdix.com](mailto:contact@xrvdix.com)
