@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Macro Keypad
+title: Macro Keypad Build
 ---
 
-A friend the other day told me about a macro keypad that he wanted to get. I told him that I could build him one instead and I set out to create it. 
+A friend the other day told me about a keypad that he wanted to use to setup macros for his Blender projects that he was working on. I told him that I would be able to build him one to his specifications if he wanted me to. He said that sounded go and so I went ahead with the build. 
 
-I found a guy online who had built his own case for his own keypad and used that as the basis for my project. 
-
-After downloading the .stl and printing it out. I set to place and solder all the keys 
+For this build I was able to find someone who had already designed a [similar project](https://github.com/KikiHobbyRepair/Macro-Keyboard). After looking it over, I took to printing out the .STLs that were provided. 
